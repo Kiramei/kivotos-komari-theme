@@ -2,8 +2,6 @@
 
 A Blue Archive–inspired theme for [Komari Monitor](https://github.com/komari-monitor/komari): clear-sky and night-city modes, a Kivotos-style operation map, student name tags, and a customizable easter egg.
 
-**Live demo → <https://kiramei.github.io/komari-theme-schale-kivotos/>**
-
 The demo runs entirely in your browser against a built-in mock backend with ten fictional servers. Every server, IP address, and number on that page is simulated.
 
 | Light (clear sky) | Dark (night city) |
