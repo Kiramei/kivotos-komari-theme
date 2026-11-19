@@ -63,7 +63,7 @@ function komariThemeZip(): Plugin {
       const commitHash = getCommitHash()
       const zipFileName = `komari-theme-Schale-Kivotos-v${getThemeVersion()}-${commitHash}.zip`
       const distDir = resolve(__dirname, 'dist')
-      const previewPath = resolve(__dirname, 'docs/preview.png')
+      const previewPath = resolve(__dirname, 'preview.png')
       const outputPath = resolve(__dirname, zipFileName)
       const themeManifest = readThemeManifest()
       const manifestPreviewName = typeof themeManifest.preview === 'string' && themeManifest.preview.trim()
