@@ -326,9 +326,6 @@ const THEME_SETTINGS = {
   fanLabelsEnabled: true,
   generalCardPreset: '自定义',
   generalCardKeys: 'memory\nremainingValue\nuploadSpeed\ndisk\ntotalTraffic\ndownloadSpeed',
-  alertEnabled: true,
-  alertTitle: 'Demo',
-  alertContent: '这是 **Schale Kivotos** 主题的在线演示，所有服务器与数据均为模拟生成。 This is a live demo — every server and number here is simulated.',
 }
 
 const PUBLIC_SETTINGS = {
